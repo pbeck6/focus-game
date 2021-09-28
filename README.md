@@ -1,8 +1,8 @@
 # focus-game
 
-Implementation of the board game Focus/Domination as described [here](https://en.wikipedia.org/wiki/Focus_(board_game)).
+Implementation of the board game Focus/Domination as described **[here](https://en.wikipedia.org/wiki/Focus_(board_game))**.
 
-The board looks like a checkerboard with three squares in each corner removed, hence forming a 6X6 board (You can find the picture of the board [here](https://en.wikipedia.org/wiki/Focus_(board_game))). This implementation ignores the 1X4 extensions on each side, and only considers the main 6X6 square board. In a two player game, the Green and Red pieces are placed, as shown in the figure below.
+The board looks like a checkerboard with three squares in each corner removed, hence forming a 6X6 board. This implementation ignores the 1X4 extensions on each side, and only considers the main 6X6 square board. In a two player game, the Green and Red pieces are placed, as shown in the figure below.
 
 ![Focus game board](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Focus_01.svg/240px-Focus_01.svg.png)
 
